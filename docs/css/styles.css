@@ -45,10 +45,12 @@ body{
 }
 #content{
     width: 593px;
+    float: left;
 }
 #sidebar{
     background-color:chocolate;
     width: 366px;
+    float: left;
 }
 #footer{
     background-color: bisque;
