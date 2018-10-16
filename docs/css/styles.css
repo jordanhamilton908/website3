@@ -3,15 +3,20 @@ body{
 }
 #box1 {
     background-color: blue;
+    float:right;
 }
 #box2 {
     background-color: red;
+    float:right;
 }
 #box3 {
     background-color: purple;
+    clear:both;
+    float:left;
 }
 #box4 {
     background-color: green;
+    float:left;
 }
 
 .box{
