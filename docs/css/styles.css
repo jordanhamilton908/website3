@@ -13,3 +13,8 @@ body{
 #box4 {
     background-color: green;
 }
+
+.box{
+    height: 50px;
+    width: 50px;
+}
