@@ -49,9 +49,12 @@ body{
 }
 #sidebar{
     background-color:chocolate;
-    width: 366px;
+    width: 300px;
     float: left;
 }
 #footer{
     background-color: bisque;
+}
+div {
+    background-color: yellow;
 }
